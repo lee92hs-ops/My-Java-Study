@@ -1,11 +1,11 @@
-package sukkiri.chapter17.main11;
+package sukkiri.chapter17.practice01;
 
 public class Main {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
-		Person p = new Person();
-		p.setAge(-128);
+		String s = null;
+		System.out.println(s.length());
 
 	}
 
